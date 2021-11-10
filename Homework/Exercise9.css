@@ -1,0 +1,19 @@
+td,tr,th,table{
+    border: solid 1px #a3042c;
+    border-collapse: collapse;
+}
+body{
+    font-family: tahoma;
+    font-size:12px;
+}
+table{
+    width: 100%;
+}
+th{
+    background-color:#CC0033;
+    color: #FFFFFF;
+    
+}
+.group{
+    color:#CC0033;
+}

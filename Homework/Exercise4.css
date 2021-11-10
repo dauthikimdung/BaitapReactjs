@@ -1,0 +1,17 @@
+body{
+    
+    background-image: url("./Pattaya.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+.para1{
+    background-color: #008888;
+    font-style: italic;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.para2{
+    color:  #008888;
+}
+

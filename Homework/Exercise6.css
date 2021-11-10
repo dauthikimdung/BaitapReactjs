@@ -1,0 +1,32 @@
+h2{
+    text-align: center;
+    border-style: double;
+    border-color: red;
+    color: red;
+}
+span.font1{
+    color: red;
+    font-weight:bold;
+    font-size:50px;
+}
+span.font2{
+    color: red;
+    font-weight:bold;
+}
+span.font3{
+    background-color: yellow;
+    font-style: italic;
+}
+div{
+    text-align: right;
+    font-weight: bold;
+    color:white;
+    background-color: #CC6600;
+    font-size:20px;
+}
+.para1{
+    text-align: left;
+}
+.para2{
+    text-align: right;
+}

@@ -1,0 +1,22 @@
+td,tr,th,table{
+    border: solid 1px blueviolet;
+    border-collapse: collapse;
+
+}
+table{
+   
+    height: 12px;
+}
+th{
+    background-color: #CC6600;
+    color: #FFFFFF;
+}
+tr.row1{
+    background-color: #FFEDCA;
+}
+tr.row2{
+    background-color: #FFFFFF;
+}
+img{
+    text-align: left;
+}

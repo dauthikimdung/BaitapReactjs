@@ -1,0 +1,21 @@
+#mom{
+    background-color: pink;
+    text-align: center; 
+    padding: 3px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: rgb(240, 21, 94);
+}
+pre{
+    text-align: center;
+    /* font-style: italic; */
+    font-family: 'Times New Roman';
+    white-space: pre-line;
+}
+#para{
+    background-color: lightyellow;
+}
+hr{
+    width: 5cm;
+    text-align: center;
+}
