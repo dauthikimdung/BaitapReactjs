@@ -4,8 +4,8 @@ td,tr,th,table{
 
 }
 table{
-   
-    height: 12px;
+    width:55%;
+    height:220px;
 }
 th{
     background-color: #CC6600;
@@ -17,6 +17,18 @@ tr.row1{
 tr.row2{
     background-color: #FFFFFF;
 }
+
 img{
-    text-align: left;
+    width:40%;
+    height:auto;
+    margin-right:35px;
+}
+div{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+}
+table{
+    height: 100%;
+    width: 100%;
 }

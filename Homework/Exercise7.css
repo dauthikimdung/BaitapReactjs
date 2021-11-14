@@ -1,0 +1,15 @@
+img{
+    width:40%;
+    height:auto;
+}
+span{
+    background-color: red;
+    color: white;
+}
+.link{
+    font-weight: bold;
+    padding: 20px;
+}
+.text{
+    display: inline-block;
+}

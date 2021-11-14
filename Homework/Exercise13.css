@@ -1,0 +1,12 @@
+h2{
+    color:green;
+    text-align: center;
+}
+td,tr,table{
+    border: solid 1px darkslategray;
+    border-collapse: collapse;
+    background-color: #32e68c;
+}
+table{
+    width: 100%;
+}

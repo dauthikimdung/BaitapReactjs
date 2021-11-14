@@ -1,0 +1,5 @@
+td,tr,table{
+    border: solid 1px darkslategray;
+    border-collapse: collapse;
+    background-color: #85c0e7;
+}

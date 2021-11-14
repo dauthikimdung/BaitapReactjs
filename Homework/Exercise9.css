@@ -17,3 +17,10 @@ th{
 .group{
     color:#CC0033;
 }
+tr td:last-child{
+    text-align: center;
+}
+tr td:nth-last-child(2)
+{
+    text-align: center;
+}

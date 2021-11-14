@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Exercise11.css">
+    <script>
+        function myfunction(){
+            var iduser=document.getElementById("IDUser").value;
+            document.getElementById("result").innerText=iduser;
+        }
+    </script>
+</head>
+<body>
+    <form action="" method="get">
+        <table>
+            <tr>
+                <td>
+                    <label>Mã người dùng</label>
+                </td>
+                <td>
+                    <input type="text" name="manguoidung" id="IDUser">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Mật khẩu</label>
+                </td>
+                <td>
+                    <input type="password" name="ps">
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center;" colspan="2">
+                    <button onclick="myfunction()">Đăng nhập</button>
+                </td>
+            </tr>
+            <tr>
+                <td id="result" colspan="2"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
